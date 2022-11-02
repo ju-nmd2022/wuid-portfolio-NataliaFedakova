@@ -1,0 +1,12 @@
+* {
+  font-family: sans-serif;
+}
+h1 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  border-style: solid;
+  border-color: #000000;
+}
+h2:hover {
+  color: rgb(47, 0, 255);
+}
