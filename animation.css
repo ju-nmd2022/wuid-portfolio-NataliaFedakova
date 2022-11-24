@@ -5,7 +5,7 @@ body {
     background-image: url("gradient.jpeg");
     background-color: #cccccc;
 }
-
+<!-- The following 47 lines of code was adapted from https://www.youtube.com/watch?v=ixodBbIC2dQ -->
 .animated-text{
     color: rgb(0, 0, 0);
     position: absolute;
@@ -54,7 +54,7 @@ margin-top: -60px;
  } 
 }                                                                 
 
-
+<!-- The following 38 lines of code was adapted from https://www.youtube.com/watch?v=KpuB7yFRHmg -->
  .wrapper {
  width: 1170px;
 margin: 10% auto;
